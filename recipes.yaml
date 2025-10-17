@@ -1,6 +1,6 @@
 recipes:
-  tailscale:
-    name: Tailscale
+  tailscale_iuliia:
+    name: Tailscale_iuliia
     description: Installs Tailscale and connects to the tailnet using the provided auth key
     versions:
       v1.0:
