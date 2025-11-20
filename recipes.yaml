@@ -3,7 +3,7 @@ recipes:
     name: Tailscale_iuliia
     description: Installs Tailscale and connects to the tailnet using the provided auth key
     versions:
-      v1.0:
+      v1.0.0:
         playbook: optional/tailscale_setup-v1.0.yaml
         metadata:
           supported_arch:
